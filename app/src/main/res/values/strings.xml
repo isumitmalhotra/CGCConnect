@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CGC Connect</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Welcome</string>
+    <string name="second_slide_title">Chit Chat</string>
+    <string name="third_slide_title">Share Your Moments</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Hello CGCians, You all are welcomed in a College personal social media platform. Where you all can connect with each others. </string>
+    <string name="second_slide_desc">Follow your friends and start conversations with them. As you know strong friendship needs chit chats.</string>
+    <string name="third_slide_desc">Also share your valuable moments with your followers and friends.</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you  </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <!--Navigation Bar text-->
+    <string name="nav_home">Home</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_notification">Notification</string>
+    <string name="nav_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

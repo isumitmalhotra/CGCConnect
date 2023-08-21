@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:background="#60c3ec">
+
+
+    <ImageView
+        android:id="@+id/img_icon_cgc"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/humain_chain"
+        android:layout_centerInParent="true"/>
+
+    <ImageView
+        android:id="@+id/img_logo_cgc"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignBottom="@+id/img_icon_cgc"
+        android:layout_gravity="center"
+        android:layout_marginBottom="-343dp"
+        android:src="@drawable/connect"
+        android:layout_marginLeft="20dp"/>
+    <TextView
+        android:id="@+id/txt_powered_by"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Powerd by Sumit Malhotra"
+        android:textSize="14sp"
+        android:textColor="#000"
+        android:gravity="center"
+        android:fontFamily="@font/poppins_regular"
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"/>
+
+
+
+</RelativeLayout>
